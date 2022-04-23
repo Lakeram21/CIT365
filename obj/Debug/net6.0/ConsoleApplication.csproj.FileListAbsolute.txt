@@ -1,0 +1,15 @@
+C:\Users\Laker\OneDrive\Desktop\ConsoleApplication\obj\Debug\net6.0\ConsoleApplication.csproj.AssemblyReference.cache
+C:\Users\Laker\OneDrive\Desktop\ConsoleApplication\obj\Debug\net6.0\ConsoleApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laker\OneDrive\Desktop\ConsoleApplication\obj\Debug\net6.0\ConsoleApplication.AssemblyInfoInputs.cache
+C:\Users\Laker\OneDrive\Desktop\ConsoleApplication\obj\Debug\net6.0\ConsoleApplication.AssemblyInfo.cs
+C:\Users\Laker\OneDrive\Desktop\ConsoleApplication\obj\Debug\net6.0\ConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\Laker\OneDrive\Desktop\ConsoleApplication\bin\Debug\net6.0\ConsoleApplication.exe
+C:\Users\Laker\OneDrive\Desktop\ConsoleApplication\bin\Debug\net6.0\ConsoleApplication.deps.json
+C:\Users\Laker\OneDrive\Desktop\ConsoleApplication\bin\Debug\net6.0\ConsoleApplication.runtimeconfig.json
+C:\Users\Laker\OneDrive\Desktop\ConsoleApplication\bin\Debug\net6.0\ConsoleApplication.dll
+C:\Users\Laker\OneDrive\Desktop\ConsoleApplication\bin\Debug\net6.0\ConsoleApplication.pdb
+C:\Users\Laker\OneDrive\Desktop\ConsoleApplication\obj\Debug\net6.0\ConsoleApplication.dll
+C:\Users\Laker\OneDrive\Desktop\ConsoleApplication\obj\Debug\net6.0\refint\ConsoleApplication.dll
+C:\Users\Laker\OneDrive\Desktop\ConsoleApplication\obj\Debug\net6.0\ConsoleApplication.pdb
+C:\Users\Laker\OneDrive\Desktop\ConsoleApplication\obj\Debug\net6.0\ConsoleApplication.genruntimeconfig.cache
+C:\Users\Laker\OneDrive\Desktop\ConsoleApplication\obj\Debug\net6.0\ref\ConsoleApplication.dll
